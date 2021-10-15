@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{1A03720E-40CD-149D-ACEF-BE89ADA4940D}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "trial_1",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
